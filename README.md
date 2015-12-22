@@ -1,4 +1,4 @@
-Codixis standard LEMP setup with Digital Ocean Lemp stack
+Codixis standard Symfony LEMP setup 
 ========
 Only for the `Digital Ocean` Lemp stack
 
