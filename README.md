@@ -1,3 +1,5 @@
+# ![codixis](media/codixis.png)
+
 Codixis standard Symfony LEMP setup 
 ========
 Only for the `Digital Ocean` Lemp stack
